@@ -1,7 +1,9 @@
-# daniel-becode
+# Histoire sans Fin : Le Livre des Étoiles
 
-# Les Frasques Cosmiques de Marcel
+Un explorateur interstellaire nommé **Mr.IHI** découvre le mystérieux "Livre des Étoiles".
 
-*Marcel, _l'extraterrestre farfelu_, décida un jour d'organiser "La Fête des Frasques Cosmiques". La soirée interstellaire fut une explosion d'absurdité avec des jongleurs de comètes, des courses à travers les anneaux de Saturne, et même un feu d'artifice galactique. La légende de Marcel se propagea dans tout l'univers, laissant derrière lui des souvenirs éblouissants de cette nuit cosmique.*
+<img src="https://media2.giphy.com/media/s6OiiampNcye4/giphy.gif?cid=ecf05e47fwpplmeit11km2dpqarzeqzux63xwfz078bkrxvo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+ En l'ouvrant, une carte stellaire inconnue apparaît.
 
 > **"Je dois suivre cette carte vers l'inconnu,"** pense IHI, prêt à s'embarquer dans une aventure intergalactique.
