@@ -8,3 +8,13 @@ Un explorateur interstellaire nommé **Mr.IHI** découvre le mystérieux "Livre 
  En l'ouvrant, une carte stellaire inconnue apparaît.
 
 > **"Je dois suivre cette carte vers l'inconnu,"** pense IHI, prêt à s'embarquer dans une aventure intergalactique.
+
+## Acte 2
+
+Alors qu'il se rendait à la pêche au _rollmops_, _Upingu_ tomba né à né avec un hareng à chapeau *très très* grincheux.
+
+> Non d'une frite ! Comment vais-je faire ma mayonnaise sans oeuf...
+
+Heureusement _Upingu_ avait la réponse.
+
+<img src="https://media.giphy.com/media/wCn9KSjSwdfAAcpKUu/giphy.gif">
